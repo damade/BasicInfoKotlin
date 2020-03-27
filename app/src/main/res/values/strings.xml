@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BasicInfoKotlin</string>
+    <string name="myProfile_activity"><b>My Profile</b></string>
+    <string name="aboutAlc_activity"><b>About ALC</b></string>
+    <string name="welcome_text"><b>Welcome to ALC 4.0</b></string>
+    <string name="about"><b>ABOUT ALC</b></string>
+    <string name="profile"><b>MY PROFILE</b></string>
+    <string name="name"><b>Adeoye Damilola Tunde</b></string>
+    <string name="track"><b>Track:</b></string>
+    <string name="track_type"><b>Backend(Python), Mobile(Java,Kotlin)</b></string>
+    <string name="Country"><b>Country:</b></string>
+    <string name="Country_name"><b>Nigeria</b></string>
+    <string name="email"><b>E-mail:</b></string>
+    <string name="email_address"><b>damilolaadeoye545@yahoo.com</b></string>
+    <string name="phone"><b>Phone Number:</b></string>
+    <string name="phone_number"><b>+2348184079896</b></string>
+    <string name="slack"><b>Slack:</b></string>
+    <string name="slack_username"><b>Damade</b></string>
+    <string name="landscape"><b>you are now running a landscape view</b></string>
+    <string name="portrait"><b>you are now running a portrait view</b></string>
+    <string name="undefined_orientation"><b>Undefined Orientation</b></string>
+    <string name="start_loading"><b>Page will soon be fully loaded</b></string>
+</resources>
